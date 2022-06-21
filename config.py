@@ -1,6 +1,6 @@
 customhost = "employee.cjgcd8epbtuy.us-west-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "Iam12345"
-customdb = "engineer"
-custombucket = "addemployeeinmysql"
+customdb = "mydatbase"
+custombucket = "mybucket-rds"
 customregion = "us-west-1"
